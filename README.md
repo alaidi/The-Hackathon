@@ -1,7 +1,7 @@
-# Hackthon Baghdad 2017 
+# Hackathon Baghdad 2017 
 
 ## Data Description 
-
+ 
 The data [data.csv] is small sample of CDR ﬁles (60 MB) generated at call center for a telecom company. It consist of the following columns:
 
 * Date and time
