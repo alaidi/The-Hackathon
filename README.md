@@ -4,12 +4,12 @@
 
 The data is small sample of CDR ﬁles generated at call center for a telecom company. It consist of the following columns:
 
-• data and time
-• caller id
-• employee id 
-• duration of call since ringing
-• talk time 
-• status 
+* data and time
+* caller id
+* employee id 
+* duration of call since ringing
+* talk time 
+* status 
 
 ## Problems 
 
