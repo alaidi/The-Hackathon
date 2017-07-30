@@ -41,7 +41,6 @@ System.Console.WriteLine(path);
 
              string elapsedTime2 = $"{ts2.Hours:00}:{ts2.Minutes:00}:{ts2.Seconds:00}.{ts2.Milliseconds / 10:00}";
              Console.WriteLine("RunTime " + elapsedTime2);
-            Console.ReadKey();
         }
     }
 
