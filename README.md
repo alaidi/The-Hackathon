@@ -2,7 +2,7 @@
 
 ## Data Description 
 
-The data is small sample of CDR ﬁles generated at call center for a telecom company. It consist of the following columns:
+The data [data.csv] is small sample of CDR ﬁles (65m) generated at call center for a telecom company. It consist of the following columns:
 
 * Date and time
 * Caller id
