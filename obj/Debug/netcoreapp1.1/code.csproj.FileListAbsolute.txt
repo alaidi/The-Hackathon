@@ -1,0 +1,8 @@
+C:\Users\hadi\Desktop\code\bin\Debug\netcoreapp1.1\code.deps.json
+C:\Users\hadi\Desktop\code\bin\Debug\netcoreapp1.1\code.runtimeconfig.json
+C:\Users\hadi\Desktop\code\bin\Debug\netcoreapp1.1\code.runtimeconfig.dev.json
+C:\Users\hadi\Desktop\code\bin\Debug\netcoreapp1.1\code.dll
+C:\Users\hadi\Desktop\code\bin\Debug\netcoreapp1.1\code.pdb
+C:\Users\hadi\Desktop\code\obj\Debug\netcoreapp1.1\code.AssemblyInfo.cs
+C:\Users\hadi\Desktop\code\obj\Debug\netcoreapp1.1\code.dll
+C:\Users\hadi\Desktop\code\obj\Debug\netcoreapp1.1\code.pdb
