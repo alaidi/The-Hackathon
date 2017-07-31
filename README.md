@@ -26,3 +26,20 @@ The data [data.csv] is small sample of CDR ﬁles (60 MB) generated at call cent
 1. Don't use a database.
 2. Don't use MS Excel or any tools out of your code.
 3. Build a GUI or CLI interface for the solution.
+
+Run the code
+-------------
+
+To run this code, you'll need to clone the repository to your computer. 
+Then make sure to install dotnet core and follow this instruction:
+
+1. Install dotnet.  See https://www.microsoft.com/net/core
+
+2. Build the solution.
+
+        $ cd The-Hackathon
+        $ dotnet restore
+        $ dotnet build
+        $ dotnet run 
+
+
